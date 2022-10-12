@@ -13,8 +13,9 @@
 
 <body>
     <div>
-        <p id="Logo"></p>
-        <img src="Asset\General\logo.jpg" alt="Logo De La Société" />
+
+        <img src="Asset\General\logo.jpg" alt="Logo De La Société" id="logo" />
+
     </div>
 
 
