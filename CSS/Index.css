@@ -1,3 +1,7 @@
 #logo {
-    margin-left: 2%;
+    margin-left: 0%;
+    width: 120px;
+    height: 120px;
+    border-width: 5cm;
+    border-collapse: separate;
 }
